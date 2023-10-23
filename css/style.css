@@ -708,10 +708,13 @@ nav{
         order: 1;
     }
     .section-2-scale{
-        width: 47%;
-        height: 55%;
+        width: 45%;
+        height: 50%;
         order: 3;
         margin-top: 20px;
+    }
+    .section-2-scale:hover{
+        transform: scale(1.05,1.05);
     }
 }
 
