@@ -640,7 +640,6 @@ nav{
 .section-2-scale{
     transition: 0.7s;
     position: relative;
-    border-radius: 6px;
 }
 
 .section-2-scale:hover{
@@ -652,12 +651,12 @@ nav{
     height: 100%;
     position: absolute;
     z-index: 1;
+    border-radius: 6px;
 }
 
 .section-2-d4{
     position: absolute;
     z-index: 2;
-    /* float: left; */
     margin: 20px 15px;
 }
 
