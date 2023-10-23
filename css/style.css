@@ -546,6 +546,9 @@ nav{
         grid-template-columns: repeat(2,1fr);
         grid-template-rows: repeat(2,440px);
     }
+    .section-1-d2-icon{
+        bottom: 5px;
+    }
 }
 
 @media (max-width: 768px){
@@ -708,6 +711,7 @@ nav{
         width: 47%;
         height: 55%;
         order: 3;
+        margin-top: 20px;
     }
 }
 
@@ -932,7 +936,7 @@ nav{
 .section-4-ul{
     /* background-color: #3d494f; */
     width: 80%;
-    margin: 20px auto 0px auto;
+    margin: 60px auto 40px auto;
     display: flex;
     justify-content: space-evenly;
 }
