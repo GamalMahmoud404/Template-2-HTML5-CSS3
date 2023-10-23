@@ -713,9 +713,9 @@ nav{
         order: 3;
         margin-top: 20px;
     }
-    .section-2-scale:hover{
+    /* .section-2-scale:hover{
         transform: scale(1.05,1.05);
-    }
+    } */
 }
 
 @media (max-width: 768px){
